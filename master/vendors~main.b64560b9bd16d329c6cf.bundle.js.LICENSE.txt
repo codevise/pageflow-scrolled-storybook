@@ -40,6 +40,8 @@ object-assign
  * Released under the MIT License.
  */
 
+/*! @source http://purl.eligrey.com/github/classList.js/blob/master/classList.js */
+
 /** @license React v0.18.0
  * scheduler.production.min.js
  *
