@@ -70,8 +70,6 @@ and limitations under the License.
 
 /*! https://mths.be/esrever v0.2.0 by @mathias */
 
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
-
 /**
  * @license
  * slighly modified parse-headers 2.0.2 <https://github.com/kesla/parse-headers/>
@@ -82,15 +80,6 @@ and limitations under the License.
 
 /** @license React v0.19.1
  * scheduler.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/** @license React v16.14.0
- * react-dom-test-utils.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -118,15 +107,6 @@ and limitations under the License.
 
 /** @license React v16.14.0
  * react.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/** @license React v17.0.2
- * react-is.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
