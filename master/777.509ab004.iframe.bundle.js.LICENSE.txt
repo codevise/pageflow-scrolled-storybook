@@ -66,8 +66,6 @@ and limitations under the License.
 
 /*! @name pkcs7 @version 1.0.4 @license Apache-2.0 */
 
-/*! @source http://purl.eligrey.com/github/classList.js/blob/master/classList.js */
-
 /*! https://mths.be/esrever v0.2.0 by @mathias */
 
 /**
